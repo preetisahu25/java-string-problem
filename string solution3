@@ -1,0 +1,9 @@
+package com.company;
+
+public class cwp_15_ps3 {
+    public static void main(String[] args) {
+        String name = "Lavkush Sahu";
+        name = name.toLowerCase();
+        System.out.println(name);
+    }
+}
